@@ -11,7 +11,7 @@ export const Navbar: FC = () => {
             {/* Logo */}
             <Link href="https://resume.karzus.com/dashboard/jobs" className="flex ml-2 md:mr-3">
               <Image
-                src="/media/svg/logo2.svg"
+                src="/logo2.svg"
                 alt="Logo"
                 width={48}
                 height={40}
